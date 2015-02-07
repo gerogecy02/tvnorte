@@ -1,0 +1,46 @@
+#portfolio_container a:hover > .portfolio-hover {
+	background: rgba(72,207,173,0.9);
+	-webkit-transition: all .3s ease-in-out;
+	-moz-transition: all .3s ease-in-out;
+	-ms-transition: all .3s ease-in-out;
+	-o-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out;
+}
+
+/* Content */
+.parallax.no-parallax { 
+	background-size: cover!important; 
+	background-attachment: scroll!important; 
+	background-position: center!important; 
+}
+.parallax-bg1 {
+	background-image: url(../images/home.jpg);
+	background-size: cover;
+}
+.parallax-bg2 {	
+background-image: url(../images/services-blue.jpg);	
+background-size: cover;
+}
+.parallax-bg3 {
+background-image:url(../images/services-pink.jpg);
+background-size: cover;		
+}
+.parallax-bg4 {
+background-image: url(../images/services-green.jpg);
+background-size: cover;		
+}
+.parallax-bg5 {
+background-image: url(../images/services-red.jpg);	
+background-size: cover;
+}
+.parallax-bg6 {
+background-image: url(../images/services-yellow.jpg);	
+background-size: cover;
+}
+.parallax-bgc{
+	background-image: url(../images/backgrounds/common.jpg);
+	background-size: cover;
+}
+.parallax-bg-white{
+	background: #FFFFFF;	
+}

@@ -1,0 +1,43 @@
+
+
+.projectlist a:hover .projectinfo { 
+	background: #ED5565; 
+	-webkit-transition: background .33s linear;
+	-moz-transition: background .15s linear;
+	-o-transition: background .15s linear;
+	transition: background .15s linear; 
+}
+
+
+
+/* DEMO ONLY */ 
+
+.parallax.no-parallax { 
+	background-size: cover!important; 
+	background-attachment: scroll!important; 
+	background-position: center!important; 
+}
+.parallax-bg1 {
+	background-image: url(../images/home.jpg)!important;
+}
+.parallax-bg2 {	
+background-image: url(../images/backgrounds/about.jpg)!important;
+}
+.parallax-bg3 {
+background-image:url(../images/backgrounds/services.jpg)!important;
+}
+.parallax-bg4 {
+background-image: url(../images/backgrounds/portfolio.jpg)!important;
+}
+.parallax-bg5 {
+background-image: url(../images/backgrounds/team.jpg)!important;
+}
+.parallax-bg6 {
+background-image: url(../images/backgrounds/contact.jpg)!important;
+}
+.parallax-bgc{
+	background: rgba(0, 0, 0, 0.87)!IMPORTANT;
+}
+.parallax-bg-white{
+	background: #FFFFFF;	
+}
